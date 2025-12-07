@@ -1,0 +1,38 @@
+footer {
+    margin-left: 40px;
+    margin-right: 13px;
+    margin-bottom: 12px;
+    position: fixed;
+    bottom: 0px;
+}
+#footer1 {
+    display: flex;
+    gap: 1024px;
+    
+}
+
+#name {
+    display: flex;
+    gap: 16px;
+    height: fit-content;
+}
+
+#image1 {
+    height: 16px;
+    width: 16px;
+    margin-top: 3.5px;
+}
+
+#footer-task-master-name {
+    width: 104px;
+    height: 23px;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    justify-content: center;
+}
+
+#notif-image {
+    height: 20px;
+    width: 20px;
+}

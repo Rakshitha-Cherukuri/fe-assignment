@@ -1,0 +1,41 @@
+[
+  {
+    "title": "updated task title",
+    "description": "updated description",
+    "completed": false,
+    "taskId": 1,
+    "status": "COMPLETED",
+    "createdBy": 1,
+    "deleted": true
+  },
+  {
+    "title": "user2 - eat",
+    "description": "ajoqieckn43",
+    "dueDate": "2025-10-09",
+    "priority": "MEDIUM",
+    "taskId": 2,
+    "status": "PENDING",
+    "createdBy": 2,
+    "deleted": true
+  },
+  {
+    "title": "fdk",
+    "description": "aeht",
+    "dueDate": "2025-10-03",
+    "priority": "HIGH",
+    "taskId": 3,
+    "status": "PENDING",
+    "createdBy": 3,
+    "deleted": false
+  },
+  {
+    "title": "Buy Papers",
+    "description": "",
+    "dueDate": "2025-10-01",
+    "priority": "HIGH",
+    "taskId": 4,
+    "status": "COMPLETED",
+    "createdBy": 2,
+    "deleted": false
+  }
+]

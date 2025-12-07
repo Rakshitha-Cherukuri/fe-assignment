@@ -1,0 +1,25 @@
+.btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: rgba(14, 100, 210, 1);
+  color: white;
+}
+
+.btn-facebook {
+  background-color: rgba(24, 119, 242, 1);
+  color: white;
+}
+
+.btn-google {
+  background-color: rgba(255, 255, 255, 0.02);
+  border: 1px solid #ccc;
+  color: #333;
+}

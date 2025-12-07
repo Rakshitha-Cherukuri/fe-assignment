@@ -1,0 +1,138 @@
+#main-body {
+  margin-top: 20px;
+  margin-left: 160px;
+  margin-right: 160px;
+  width: 960px;
+  height: 695px;
+}
+
+button {
+  color: rgba(247, 250, 252, 1);
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  height: 40px;
+}
+
+#menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+#title h1 {
+  font-size: 34px;
+  color: rgba(13, 20, 28, 1);
+  margin: 0;
+}
+
+#add-button button {
+  background-color: rgba(18, 128, 237, 1);
+}
+
+#add-button button:hover {
+  background-color: #535bf2;
+}
+
+#filter-chips {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 3px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.filter-chip {
+  width: 105px;
+  height: 34px;
+  padding: 5.5px 16px;
+  background-color: rgb(143, 197, 252);
+  border: 0px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.filter-chip-active {
+  width: 105px;
+  height: 36px;
+  padding: 5.5px 16px;
+  background-color: rgb(65, 154, 243);
+  border: 0px;
+  border-radius: 9px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+#task-items {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 25px;
+  min-height: 250px;
+}
+
+#task-items ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#task-items li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+#task-items li:hover {
+  background-color: #d4d3d3;
+}
+
+#task-items li span {
+  cursor: pointer;
+}
+
+#task-items input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+#no-tasks-display {
+  margin: 50px 350px;
+}
+
+#task-name {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+#task-name > span {
+  font-size: 22px;
+}
+
+#operations {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+#status-checkbox {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}

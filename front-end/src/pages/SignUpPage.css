@@ -1,0 +1,53 @@
+.signup-container {
+  width: 315px;
+  margin: 40px auto;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 20px;
+  /* height: 450px; */
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
+.subtitle {
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+InputField {
+  margin-bottom: 28px;
+}
+.divider {
+  margin: 20px 0;
+  font-size: 14px;
+  position: relative;
+}
+
+.divider span {
+  background: white;
+  padding: 0 10px;
+}
+
+.login-text {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.login-text span {
+  color: rgba(47, 137, 252, 1);
+  cursor: pointer;
+}
+
+.error-message {
+  background-color: #fee;
+  color: #c33;
+  padding: 12px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #fcc;
+  font-size: 14px;
+}

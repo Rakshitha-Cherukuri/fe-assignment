@@ -1,0 +1,23 @@
+[
+  {
+    "userId": 1,
+    "username": "testuser",
+    "email": "test@example.com",
+    "phoneNumber": "9876543210",
+    "passwordHash": "$2b$10$Na8UCrR1B6WDt5zQlNWoNufmtKa.W9idtEElG42tyZ7au24sQEeyS"
+  },
+  {
+    "userId": 2,
+    "username": "user2",
+    "email": "user2@example.com",
+    "phoneNumber": "9999999999",
+    "passwordHash": "$2b$10$17a0KzAGvbut8ElfyDewYOR3IIzMx1W4GDLU5sdI0v2yDWh0tNBGq"
+  },
+  {
+    "userId": 3,
+    "username": "user3",
+    "email": "user3@example.com",
+    "phoneNumber": "8888888888",
+    "passwordHash": "$2b$10$w6bX6D7GswnBGS4NTaxIKOr6raqKD8OGE.p.Hhz1A8eU3zdCO3UgG"
+  }
+]
